@@ -20,5 +20,12 @@ class AssetsColors {
   static const tableColor = Color(0xff8A8A8F);
   static const redColor = Color(0xffb51010);
 
+  ///////////////////////////////////////////////////
+  static const Color grey = Color(0xffC4BDB9);
+  static const Color white_background = Color(0xffE5E5E5);
+  static const Color gradient1 = Color(0xffF6AB3B);
+  static const Color gradient2 = Color(0xffF93F16);
+  static const Color forgotColor = Color(0xffF87E2C);
+
 
 }
